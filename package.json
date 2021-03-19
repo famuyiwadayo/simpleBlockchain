@@ -1,0 +1,11 @@
+{
+  "name": "private-blockchain",
+  "version": "1.0.0",
+  "description": "a simple blockchain in nodejs",
+  "main": "index.js",
+  "author": "https://github.com/famuyiwadayo",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
